@@ -12,7 +12,7 @@ interface ImageSettings {
 export interface QRProps {
   value: string;
   type?: 'canvas' | 'svg';
-  size?: number;
+  size?: React.CSSProperties['width'];
   color?: string;
   style?: CSSProperties;
   includeMargin?: boolean;
